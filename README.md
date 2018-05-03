@@ -2,6 +2,8 @@
 plant watering system based on a Arduino Micro Pro.
 There are 3 weightcells used, so we have no friction in mechanical parts.
 
+More information can be found on our homepage http://pflamiku.de
+
 Schematic can be found here:
 https://easyeda.com/artbody/pflamiku_allinone_3er_2018_04_18
 
